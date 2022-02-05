@@ -1,0 +1,3 @@
+# README.md
+
+Minecraft auto clicker. This saves you in situations when you aren't able to click as fast. When you are clicking really fast it doesn't click, but when you are on lower cps, it helps and does some extra clicks sometimes. This uses the mouse click to click, and not a hotkey, so you should be able to use this on a hand-cam video, tho it can click sometimes when you aren't clicking, thus "revealing" that you aren't clicking.
